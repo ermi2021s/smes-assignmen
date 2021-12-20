@@ -165,7 +165,7 @@ function Home() {
       <br />
       <div style={{ height: '100vh', width: '100%' }}>
         <GoogleMapReact
-          bootstrapURLKeys={{ key: "AIzaSyDi1qXPyA0fpZtaLnkbMiVljYlHo"}}
+          bootstrapURLKeys={{ key: "AIzlHo"}}
           defaultCenter={{ lat: 62,
             lng: 15}}
           defaultZoom={5}
